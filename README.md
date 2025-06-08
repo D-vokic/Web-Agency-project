@@ -1,5 +1,6 @@
 # Web-Agency-project
-https://D-vokic.github.io/4-Web-Agency-project/
+
+You can see demo of this project [here](https://d-vokic.github.io/Web-Agency-project/)
 
 Hi, I am Duško.
 
